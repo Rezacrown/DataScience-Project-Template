@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+*.env
+(mlops-env)
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.json
+*.xlsx
+*.db
+*.sqlite3
+*.h5
+*.hdf5
+*.parquet
+
+# Large model files
+*.pkl
+*.joblib
+*.model
+*.onnx
+*.tflite
+
+# Logs and debugging files
+logs/
+*.log
+
+# TensorBoard logs
+tb_logs/
+
+# Cache and intermediate files
+__pycache__/
+*.cache
+*.npy
+*.npz
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook metadata
+*.ipynb_checkpoints
+
+# Conda environment
+*.conda
+env.yaml
