@@ -10,6 +10,18 @@ Make virtual environment for dependencies:
 python -m venv (your-environment)
 ```
 
+example:
+
+```markdown
+python -m venv .venv
+```
+
+activate the virtual environment:
+
+```bash
+.\.venv\Scripts\activate
+```
+
 Install dependencies packages from requirements.txt :
 
 ```bash
