@@ -1,0 +1,13 @@
+# 
+README.md
+.gitignore
+.dockerignore
+
+
+# 
+.venv
+example.env
+
+# 
+mlruns
+mlflow

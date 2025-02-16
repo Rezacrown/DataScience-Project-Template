@@ -7,8 +7,7 @@ __pycache__/
 venv/
 .venv
 .env/
-*.env
-(mlops-env)
+.env
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -56,3 +55,7 @@ Thumbs.db
 # Conda environment
 *.conda
 env.yaml
+
+# mlflow
+mlruns/*
+mlflow/*

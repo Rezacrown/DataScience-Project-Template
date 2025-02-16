@@ -75,3 +75,13 @@ Open MLflow Dashboard:
 ```bash
 mlflow ui
 ```
+
+### Running Project in Docker
+
+Please noted to setup your .env configuration by create a file **.env** in root project and copy all configuration from **example.env** then try running:
+
+```bash
+docker compose up --build
+```
+
+by setup in example.env you can access **http:localhost:3000** for Zenml Dashboard and **http://localhost:5000** for MLflow Dashboard.
