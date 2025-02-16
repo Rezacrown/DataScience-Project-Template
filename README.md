@@ -84,4 +84,4 @@ Please noted to setup your .env configuration by create a file **.env** in root 
 docker compose up --build
 ```
 
-by setup in example.env you can access **http:localhost:3000** for Zenml Dashboard and **http://localhost:5000** for MLflow Dashboard.
+by setup in example.env you can access **http://localhost:3000** for Zenml Dashboard and **http://localhost:5000** for MLflow Dashboard.
